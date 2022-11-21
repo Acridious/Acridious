@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Student <img src="https://img.webnots.com/2020/03/Australia-Flag.png"/> </h3>
+<h3 align="center">Student <img src="https://img.webnots.com/2020/03/Australia-Flag.png width="20" height="20""/> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acridious&label=Profile%20views&color=0e75b6&style=flat" alt="acridious" /> </p>
 
